@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main (Hello, puts)
- * Returm(0)=Success
+ * main-Programming for hello puts
+ * Return:(0)Success
  */
 int main (void)
 {	
