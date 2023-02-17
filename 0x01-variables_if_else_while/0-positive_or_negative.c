@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*
- * main - entry point
- * Return (0)- Sucess
+/**
+ *main - entry point of programs
+ *
+ *Return (0)- Sucess
  */
 int main(void)
 {
